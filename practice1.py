@@ -1,0 +1,7 @@
+tupple1 = (1, 2, 3, 4, 5)
+tupple2 = (6, 7, 8, 9, 10)
+print(tupple1[0]*tupple2[0])
+print(tupple1[1]*tupple2[1])
+print(tupple1[2]*tupple2[2])
+print(tupple1[3]*tupple2[3])
+print(tupple1[4]*tupple2[4])
