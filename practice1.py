@@ -5,3 +5,5 @@ print(tupple1[1]*tupple2[1])
 print(tupple1[2]*tupple2[2])
 print(tupple1[3]*tupple2[3])
 print(tupple1[4]*tupple2[4])
+#That was ez.
+#Took me some time though...
